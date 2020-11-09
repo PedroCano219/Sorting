@@ -1,5 +1,5 @@
 #include <iostream>
-#include "funciones.h"
+#include "functions.h"
 #include <cstdlib>
 #include <array>
 
