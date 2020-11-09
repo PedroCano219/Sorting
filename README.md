@@ -1,5 +1,5 @@
 # Sorting
-Sorting by quicksort and mergesort
+Sorting by quicksort and mergesort in C++
 
 Description:
 This project is a program that is capable of sorting two arrays by quicksort and mergesort.
