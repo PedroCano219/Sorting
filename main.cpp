@@ -9,14 +9,14 @@ using namespace std;
 int main(){
     int array1[30];    //variables
     int array2[30];
-	  int m,n,k;
-	  int l = 0;
+    int m,n,k;
+    int l = 0;
 
-	  srand((unsigned)time(NULL));
-	  for (int i=0;i<30;i++){
-		    n=rand()%15+1;
-		    array1[i] = n;
-		    m++;
+    srand((unsigned)time(NULL));
+    for (int i=0;i<30;i++){
+        n=rand()%15+1;
+        array1[i] = n;
+        m++;
     }
 
 
@@ -30,9 +30,9 @@ int main(){
 
 
     srand((unsigned)time(NULL));
-	  for (int j=0;j<30;j++){
-		    k=rand()%7+1;
-		    array2[j] = k;
+    for (int j=0;j<30;j++){
+        k=rand()%7+1;
+	array2[j] = k;
         l++;
     }
 
